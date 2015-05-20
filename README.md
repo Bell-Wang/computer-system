@@ -1,2 +1,2 @@
 # computer-system
-This includes topic modeling written by Spark.
+This includes topic modeling written in Spark.
